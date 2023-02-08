@@ -1,3 +1,4 @@
 # Food-Order-App
 A Restaurant Food Order App- ReactJS Project
-HTML5, CSS3, JAVASCRIPT, REACTJS
+Languages: HTML5, CSS3, JAVASCRIPT, 
+Framework: REACTJS
